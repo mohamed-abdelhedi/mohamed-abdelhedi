@@ -13,7 +13,7 @@
 - 👨‍💻 All of my projects are available at
 [https://github.com/mohamed-abdelhedi](https://github.com/mohamed-abdelhedi)
 
--📫 How to reach me **Mohamed.Abdelhedi@supcom.tn**
+- 📫 How to reach me **Mohamed.Abdelhedi@supcom.tn**
 
 - My TryHackMe profile **https://tryhackme.com/p/wolfboos**
 
