@@ -14,7 +14,8 @@
 [https://github.com/mohamed-abdelhedi](https://github.com/mohamed-abdelhedi)
 
 - 📫 How to reach me **Mohamed.Abdelhedi@supcom.tn**
-<script src="https://tryhackme.com/badge/784447"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/wolfboos.png" alt="TryHackMe">
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
