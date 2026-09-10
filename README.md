@@ -1,46 +1,58 @@
-# Hi, I'm Mohamed Abdelhedi 👋
+<img src="assets/profile-banner.png" alt="Mohamed Abdelhedi — Detection & Response · Cloud Security · Industrial Security" width="100%">
 
-**Cybersecurity Analyst (SOC/NOC)** @ Figeac Aero — Tunis, Tunisia
-Blue Team · Threat Detection & Response · OT/Industrial Security
+# Mohamed Abdelhedi
 
-🎓 MEng in Telecommunications, SUP'COM
-📜 CISSP (Associate of ISC²) · SSCP · CC · AZ-500
-🛡️ Working across Microsoft Sentinel, CrowdStrike, Wazuh, Fortinet SD-WAN, Cisco ISE, and Entra/Azure
-🎯 Currently working toward CCSP
-📈 Career path: SOC/NOC Analyst → Security Engineer → Security Architect
+**Cybersecurity Analyst (SOC/NOC) · Figeac Aero · Tunis, Tunisia**
 
----
+I work across security operations, threat detection and response, and OT/industrial security, with a focus on Microsoft Sentinel, endpoint security, and Azure/Entra.
 
-### 🔧 Core Stack
+[LinkedIn](https://www.linkedin.com/in/med-abdelhedi/) · [Explore my repositories](https://github.com/mohamed-abdelhedi?tab=repositories)
 
-![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![CrowdStrike](https://img.shields.io/badge/CrowdStrike-E01F26?style=flat&logo=crowdstrike&logoColor=white)
-![Wazuh](https://img.shields.io/badge/Wazuh-1A2C3B?style=flat&logo=wazuh&logoColor=white)
-![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=flat&logo=fortinet&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco%20ISE-1BA0D7?style=flat&logo=cisco&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure%20%2F%20Entra-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat&logo=burpsuite&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+## Featured projects
 
----
+Selected work from my software development background, spanning web applications, mobile experiences, and machine learning integration.
 
-### 🏅 Certifications
+### [ADAS Validation Resource Manager](https://github.com/mohamed-abdelhedi/ADAS_VRM_primatec)
 
-[![CISSP](https://img.shields.io/badge/ISC²-CISSP%20Associate-003087?style=for-the-badge)](https://www.isc2.org/)
-[![SSCP](https://img.shields.io/badge/ISC²-SSCP-003087?style=for-the-badge)](https://www.isc2.org/)
-[![CC](https://img.shields.io/badge/ISC²-Certified%20in%20Cybersecurity-003087?style=for-the-badge)](https://www.isc2.org/)
-[![AZ-500](https://img.shields.io/badge/Microsoft-AZ--500-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/certifications/)
+An Angular and Spring Boot application for managing validation teams, skills, project assignments, and workloads.
 
----
+**Angular · Java · Spring Boot · MySQL**
 
-### 📫 Connect
+[Architecture & setup](https://github.com/mohamed-abdelhedi/ADAS_VRM_primatec#architecture)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/med-abdelhedi)
+### [MusicApp](https://github.com/mohamed-abdelhedi/musicapp)
 
-<!--
-📊 Optional: GitHub stats widgets (uncomment if you want them)
-![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamed-abdelhedi&show_icons=true&theme=dark)
--->
+A Flutter music application with online and local playback, playlist browsing, and a Flask service for audio genre classification. A collaborative prototype with documented contributors.
+
+**Flutter · Firebase · Python · Flask**
+
+[Preview & setup](https://github.com/mohamed-abdelhedi/musicapp#preview)
+
+### [Car Mate](https://github.com/mohamed-abdelhedi/RealTime-Car-Sharing-app)
+
+A Flutter car-sharing prototype with driver and passenger flows, map-based location selection, and Firebase integration.
+
+**Flutter · Firebase · Google Maps**
+
+[Project walkthrough](https://github.com/mohamed-abdelhedi/RealTime-Car-Sharing-app#project-walkthrough)
+
+## Core skills
+
+| Focus | Tools |
+| :--- | :--- |
+| Detection & response | Microsoft Sentinel, CrowdStrike, Wazuh |
+| Network & identity | Fortinet SD-WAN, Cisco ISE, Microsoft Entra, Azure |
+| Automation & systems | Python, Linux, Git |
+| Security testing | Kali Linux, Burp Suite |
+
+## Education & certifications
+
+**MEng in Telecommunications** · SUP'COM
+
+CISSP (Associate of ISC²) · SSCP · CC · AZ-500
+
+Currently working toward **CCSP**.
+
+## Connect
+
+Find me on [LinkedIn](https://www.linkedin.com/in/med-abdelhedi/) to connect about security operations, cloud security, and industrial environments.
