@@ -10,7 +10,15 @@ I work across security operations, threat detection and response, and OT/industr
 
 ## Featured projects
 
-Selected work from my software development background, spanning web applications, mobile experiences, and machine learning integration.
+Cloud security engineering and selected work from my software development background.
+
+### [Azure Secure Landing Zone](https://github.com/mohamed-abdelhedi/azure-secure-landing-zone)
+
+A Terraform reference implementation of Azure hub-and-spoke networking with Firewall, Bastion, and Microsoft Sentinel onboarding. Includes policy checks against Terraform plans, credential-free infrastructure tests, and security scanning in GitHub Actions.
+
+**Terraform · Azure · Microsoft Sentinel · OPA · GitHub Actions**
+
+[Architecture](https://github.com/mohamed-abdelhedi/azure-secure-landing-zone/blob/main/ARCHITECTURE.md) · [Code & validation](https://github.com/mohamed-abdelhedi/azure-secure-landing-zone#validate-without-an-azure-account)
 
 ### [ADAS Validation Resource Manager](https://github.com/mohamed-abdelhedi/ADAS_VRM_primatec)
 
@@ -42,6 +50,7 @@ A Flutter car-sharing prototype with driver and passenger flows, map-based locat
 | :--- | :--- |
 | Detection & response | Microsoft Sentinel, CrowdStrike, Wazuh |
 | Network & identity | Fortinet SD-WAN, Cisco ISE, Microsoft Entra, Azure |
+| Infrastructure & policy as code | Terraform, OPA, GitHub Actions |
 | Automation & systems | Python, Linux, Git |
 | Security testing | Kali Linux, Burp Suite |
 
