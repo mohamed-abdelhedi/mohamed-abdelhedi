@@ -5,7 +5,7 @@ Cybersecurity Engineer (SOC/NOC) · Figeac Aero · Tunis, Tunisia · open to rem
 
 [LinkedIn](https://linkedin.com/in/med-abdelhedi) · [Explore my repositories](https://github.com/mohamed-abdelhedi?tab=repositories)
 
-I am a security engineer with a telecommunications engineering background. My strongest work is network security: I moved a 100+ site MPLS network to Fortinet Secure SD-WAN, with BGP routing, site-to-site VPN, health-check-driven steering, uniform firewall policy by user role, and FortiAnalyzer reporting. Today I run security operations (detection, triage, response) and build cloud security on Azure and Entra. I automate what I can with Python, Terraform and policy as code.
+I am a security engineer with a telecommunications engineering background. My strongest work is network security: as part of a four-person team I helped move a 100+ site MPLS network to Fortinet Secure SD-WAN (iBGP routing, site-to-site VPN, health-check-driven steering, uniform firewall policy by user role, FortiAnalyzer reporting) and then maintained it. Today I run security operations (detection, triage, response) and build cloud security on Azure and Entra. I automate what I can with Python, Terraform and policy as code.
 
 ## Featured projects
 
